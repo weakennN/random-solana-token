@@ -2,5 +2,5 @@
   "name": "Example Token",
   "symbol": "EXMPL",
   "description": "Example token from Solana Making a Token guide.",
-  "image": "https://github.com/weakennN/random-solana-token/blob/main/asset/i-got-bored-so-i-decided-to-draw-a-random-image-on-the-v0-4ig97vv85vjb1.png"
+  "image": "https://raw.githubusercontent.com/weakennN/random-solana-token/main/asset/i-got-bored-so-i-decided-to-draw-a-random-image-on-the-v0-4ig97vv85vjb1.png"
 }
